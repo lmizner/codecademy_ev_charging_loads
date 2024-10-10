@@ -1,4 +1,4 @@
-# ev_charging_loads
+# codecademy_ev_charging_loads
 
 ### Predicting Electric Vehicle Charging Loads
 In this project, you will use PyTorch to train a neural network to predict residential electric vehicle charging loads using real-world data from apartment buildings in Norway.
